@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Viniciushenrique07/results-summary-component)
-- Live Site URL: [Add live site URL here](https://Viniciushenrique07.github.io/results-summary-component)
+- Solution URL: [https://github.com/Viniciushenrique07/results-summary-component]
+- Live Site URL: [https://Viniciushenrique07.github.io/results-summary-component]
 
 ## My process
 
